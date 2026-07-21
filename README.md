@@ -39,8 +39,6 @@ The project follows the **MVC architecture** on the backend and uses **React + V
 - Vite
 - Tailwind CSS
 - Axios
-- Framer Motion
-- Sonner
 
 ### Backend
 
@@ -48,7 +46,6 @@ The project follows the **MVC architecture** on the backend and uses **React + V
 - Express.js
 - MongoDB
 - Mongoose
-- ShortID
 
 ---
 
@@ -62,19 +59,19 @@ The project follows the **MVC architecture** on the backend and uses **React + V
 
 ## URL Generated
 
-![Short URL](assets/short-url.png)
+![Short URL](assessts/short-url.png)
 
 ---
 
 ## Analytics
 
-![Analytics](assets/analytics.png)
+![Analytics](assessts/analytics.png)
 
 ---
 
 ## Mobile View
 
-![Mobile](assets/mobile.png)
+![Mobile](assessts/mobile.png)
 
 ---
 
