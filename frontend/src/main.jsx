@@ -1,0 +1,29 @@
+import { StrictMode } from 'react'
+import { createRoot } from 'react-dom/client'
+import { BrowserRouter } from 'react-router-dom'
+import { Toaster } from 'sonner'
+import './index.css'
+import App from './App.jsx'
+
+createRoot(document.getElementById('root')).render(
+  <StrictMode>
+    <BrowserRouter>
+      <App />
+      <Toaster
+        theme="dark"
+        position="bottom-right"
+        closeButton
+        toastOptions={{
+          classNames: {
+            toast:
+              'bg-surface border border-border-subtle text-foreground shadow-card',
+            title: 'text-foreground',
+            description: 'text-muted',
+            success: 'text-success',
+            error: 'text-destructive',
+          },
+        }}
+      />
+    </BrowserRouter>
+  </StrictMode>,
+)
