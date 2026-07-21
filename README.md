@@ -206,9 +206,8 @@ GET /url/analytics/:shortId
 - ✏️ Edit Existing URLs
 - 📅 Link Expiration
 - 🔒 Custom Short URLs
-- 📋 Copy Link Button
 - 📱 QR Code Generator
-- 🌙 Dark Mode
+- 🌙 Switch Light/Dark Mode
 
 ---
 
