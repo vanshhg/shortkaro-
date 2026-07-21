@@ -53,7 +53,7 @@ The project follows the **MVC architecture** on the backend and uses **React + V
 
 ## Home Page
 
-![Home](assessts/hero.png)
+![Home](assessts/home.png)
 
 ---
 
