@@ -53,25 +53,25 @@ The project follows the **MVC architecture** on the backend and uses **React + V
 
 ## Home Page
 
-![Home](assessts/home.png)
+![Home](assets/home.png)
 
 ---
 
 ## URL Generated
 
-![Short URL](assessts/short-url.png)
+![Short URL](assets/short-url.png)
 
 ---
 
 ## Analytics
 
-![Analytics](assessts/analytics.png)
+![Analytics](assets/analytics.png)
 
 ---
 
 ## Analytics View
 
-![Mobile](assessts/check-clicks.png)
+![Mobile](assets/check-clicks.png)
 
 ---
 
