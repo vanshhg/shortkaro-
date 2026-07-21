@@ -53,7 +53,7 @@ The project follows the **MVC architecture** on the backend and uses **React + V
 
 ## Home Page
 
-![Home](assets/hero.png)
+![Home](assessts/hero.png)
 
 ---
 
@@ -69,9 +69,9 @@ The project follows the **MVC architecture** on the backend and uses **React + V
 
 ---
 
-## Mobile View
+## Analytics View
 
-![Mobile](assessts/mobile.png)
+![Mobile](assessts/check-clicks.png)
 
 ---
 
