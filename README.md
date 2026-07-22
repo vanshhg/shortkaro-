@@ -14,7 +14,7 @@
 
 **ShortKaro** is a full-stack URL shortening application that converts long URLs into short, shareable links. Every shortened URL is stored in MongoDB and includes click analytics so users can monitor how many times a link has been visited.
 
-The project follows the **MVC architecture** on the backend and uses **React + Vite** on the frontend to deliver a fast and responsive user experience.
+The project follows the **MVC architecture** on the backend and uses **React + Vite** on the frontend to deliver a fast and responsive user experience. 
 
 ---
 
@@ -45,7 +45,6 @@ The project follows the **MVC architecture** on the backend and uses **React + V
 - Node.js
 - Express.js
 - MongoDB
-- Mongoose
 
 ---
 
