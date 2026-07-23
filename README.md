@@ -7,16 +7,16 @@
 <p align="center">
   Generate short links instantly and track the number of clicks with a clean and responsive user interface.
 </p>
-
+   
 ---
 
 ## 📖 Overview
 
 **ShortKaro** is a full-stack URL shortening application that converts long URLs into short, shareable links. Every shortened URL is stored in MongoDB and includes click analytics so users can monitor how many times a link has been visited.
-
+  
 The project follows the **MVC architecture** on the backend and uses **React + Vite** on the frontend to deliver a fast and responsive user experience. 
 
----
+---   
 
 ## ✨ Features
 
@@ -27,9 +27,9 @@ The project follows the **MVC architecture** on the backend and uses **React + V
 - 🎨 Clean and modern UI
 - 🗄️ MongoDB database integration
 - 🏗️ MVC architecture for maintainable backend code
-- 🌐 RESTful API
+- 🌐 RESTful APIs
 
----
+---  
 
 ## 🛠️ Tech Stack
 
